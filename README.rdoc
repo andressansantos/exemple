@@ -1,0 +1,10 @@
+esse é apenas um testa para tudo dá certo!
+esse é apenas um testa para tudo dá certo!
+exit 
+exit vi
+:qa
+esse é apenas um testa para tudo dá certo!
+exit 
+exit vi
+:qa
+
